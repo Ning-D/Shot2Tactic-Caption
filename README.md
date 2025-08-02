@@ -15,6 +15,7 @@
 
 ## 🧩 Dataset
 ### 📁 Structure
+🚧 *Coming soon: The dataset structure, annotation format, and sample clips will be updated soon.* 🚧
 
 ````text
 Shot2Tactic-Caption/
