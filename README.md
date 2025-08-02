@@ -5,7 +5,8 @@
 
 ## 🏗️ Model Architecture
 
-![Model Architecture](figures/model_architecture.png)
+![Model Architecture](https://raw.githubusercontent.com/Ning-D/Shot2Tactic-Caption/main/figures/model_architecture.png)
+
 
 ## 📂 Shots2Tactic Dataset
 
