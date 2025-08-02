@@ -1,5 +1,10 @@
 # Shot2Tactic-Caption
 
+> 📢 **News:**  
+> Our paper **"Shot2Tactic-Caption: Fine-grained Video Captioning for Tactical Understanding in Racket Sports"**  
+> has been **accepted at ACM MMSports 2025** 🎉  
+
+
 ## 📂 Dataset Structure
 
 ````text
