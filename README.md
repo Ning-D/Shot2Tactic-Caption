@@ -1,7 +1,7 @@
 # Shot2Tactic-Caption
 
 > 📢 **News:**  
-> Our paper **"Shot2Tactic-Caption: Fine-grained Video Captioning for Tactical Understanding in Racket Sports"**  
+> Our paper **"Shot2Tactic-Caption:Multi-Scale Captioning of Badminton Videos for Tactical Understanding"**  
 > has been **accepted at ACM MMSports 2025** 🎉  
 
 
