@@ -5,7 +5,7 @@
 > has been **accepted at ACM MMSports 2025** 🎉  
 
 
-## 📂 Dataset Structure
+## 📂 Shots2Tactic Dataset
 
 ````text
 Shot2Tactic-Caption/
