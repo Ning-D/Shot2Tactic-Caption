@@ -34,6 +34,6 @@ Shot2Tactic-Caption/
 ````
 ### 📥 Dataset Download
 
-The **Shot2Tactic Dataset** can be downloaded from here: [Shot2Tactic-Caption Dataset](https://drive.google.com/your_dataset_link_here)
+The **Shot2Tactic Dataset** can be downloaded from here: [Shot2Tactic-Caption Dataset](https://drive.google.com/drive/folders/1X0DRVyQ8trJJHy3rvv1teCwJxADsRI2G?usp=drive_link)
 
 > ⚠️ **Note:** This dataset is released for research purposes only. Please cite our paper if you use it in your work.
