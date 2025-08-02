@@ -10,7 +10,7 @@
 
 
 
-## Shot2Tactic-Caption Dataset
+## 🧩 Dataset
 ### 📁 Structure
 
 ````text
