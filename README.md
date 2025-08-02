@@ -3,6 +3,9 @@
 > 📢 **News:**  
 > Our paper **"Shot2Tactic-Caption:Multi-Scale Captioning of Badminton Videos for Tactical Understanding"** has been **accepted at ACM MMSports 2025** 🎉  
 
+## 🏗️ Model Architecture
+
+![Model Architecture](figures/model_architecture.png)
 
 ## 📂 Shots2Tactic Dataset
 
