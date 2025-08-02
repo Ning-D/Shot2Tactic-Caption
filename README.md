@@ -5,7 +5,10 @@
 
 ## 🏗️ Model Architecture
 
-![Model Architecture](https://raw.githubusercontent.com/Ning-D/Shot2Tactic-Caption/main/figures/model_architecture.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ning-D/Shot2Tactic-Caption/main/figures/model_architecture.png" width="600">
+</p>
 
 
 
