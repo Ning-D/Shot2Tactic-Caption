@@ -8,7 +8,10 @@
 ![Model Architecture](https://raw.githubusercontent.com/Ning-D/Shot2Tactic-Caption/main/figures/model_architecture.png)
 
 
-## 📂 Shots2Tactic Dataset
+
+
+## Shot2Tactic-Caption Dataset
+### 📁 Structure
 
 ````text
 Shot2Tactic-Caption/
@@ -25,3 +28,10 @@ Shot2Tactic-Caption/
 │   ├── tactic_templates.json
 └── README.md               # Dataset documentation
 
+## 📥 Dataset Download
+
+The **Shot2Tactic Dataset** can be downloaded from the following link:
+
+- [📂 Google Drive (Shot2Tactic-Caption Dataset)](https://drive.google.com/your_dataset_link_here)
+
+> ⚠️ **Note:** This dataset is released for research purposes only. Please cite our paper if you use it in your work.
